@@ -2,7 +2,6 @@
 
 by Michael Schaufelberger ([@michaelschufi](https://github.com/michaelschufi)) & Gabriel Koch ([@elessar-ch](https://github.com/elessar-ch))
 
-\
 We made a Bimaru solver during an AI course at ZHAW. Using a CSP approach, it solves Bimarus in useful time. 
 
 - Easy 8x8 puzzle - < 2s
