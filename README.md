@@ -1,6 +1,6 @@
 # Bimaru Solver
 
-by Michael Schaufelberger (@michaelschufi) & Gabriel Koch (@elessar-ch)
+by Michael Schaufelberger ([@michaelschufi](https://github.com/michaelschufi)) & Gabriel Koch ([@elessar-ch](https://github.com/elessar-ch))
 
 \
 We made a Bimaru solver during an AI course at ZHAW. Using a CSP approach, it solves Bimarus in useful time. 
