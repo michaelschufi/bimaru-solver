@@ -7,7 +7,7 @@ We made a Bimaru solver during an AI course at ZHAW. Using a CSP approach, it so
 
 - Easy 8x8 puzzle - < 2s
 - Hard 8x8 puzzle - < 5s
-- Hard 10x10 puzzle - < 10 mins
+- Hard 10x10 puzzle - < 3 mins
 
 ## Usage
 This repo is using [Pipenv](https://pipenv.pypa.io/en/latest/) as a package manager.
